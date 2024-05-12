@@ -2,6 +2,18 @@
 
 FitSync is a fitness tracking application designed to help you monitor and achieve your fitness goals. Follow the steps below to set up and run the application.
 
+## Website
+
+<div align="center">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/1.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/2.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/3.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/4.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/5.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/6.png">
+  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/7.png">
+</div> 
+
 ## Installation
 
 1. **Download the Repository:** Clone or download the repository to your local machine.
@@ -26,6 +38,6 @@ FitSync is a fitness tracking application designed to help you monitor and achie
         - Email: ram.7844@proton.me
         - Password: password
 
-Now you are all set to explore and utilize FitSync to track and manage your fitness journey. If you encounter any issues or have questions, feel free to reach out to us.
+Now you are all set to explore and utilize FitSync to track and manage your fitness journey.
 
 Happy fitness tracking! 🏋️‍♂️🏃‍♀️
