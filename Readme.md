@@ -5,13 +5,13 @@ FitSync is a fitness tracking application designed to help you monitor and achie
 ## Website
 
 <div align="center">
-  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/1.png">
-  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/2.png">
-  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/3.png">
-  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/4.png">
-  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/5.png">
-  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/6.png">
-  <img src="https://github.com/Hariram-6674/OpenD/raw/main/images/7.png">
+  <img src="https://github.com/Hariram-6674/FitSync-LocalHost-Version/raw/master/images/1.png">
+  <img src="https://github.com/Hariram-6674/FitSync-LocalHost-Version/raw/master/images/2.png">
+  <img src="https://github.com/Hariram-6674/FitSync-LocalHost-Version/raw/master/images/3.png">
+  <img src="https://github.com/Hariram-6674/FitSync-LocalHost-Version/raw/master/images/4.png">
+  <img src="https://github.com/Hariram-6674/FitSync-LocalHost-Version/raw/master/images/5.png">
+  <img src="https://github.com/Hariram-6674/FitSync-LocalHost-Version/raw/master/images/6.png">
+  <img src="https://github.com/Hariram-6674/FitSync-LocalHost-Version/raw/master/images/7.png">
 </div> 
 
 ## Installation
